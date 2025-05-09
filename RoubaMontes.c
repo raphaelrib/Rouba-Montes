@@ -3,6 +3,9 @@
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
+
+// Variaveis permanentes:
+
 #define Vermelho "\033[1;31m"
 #define Preto "\033[1;30m"
 #define Reset "\033[0m"
