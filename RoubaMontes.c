@@ -580,3 +580,5 @@ int main() {
   ranking(jogadores, numJ);
   return 0;
 }
+
+//Muito Bom  !!!!
